@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Alvin.
+- 🎓 I'm a postgraduate student major in CSIE, and doing NLP research at [IISR](https://www.iisr.csie.ncu.edu.tw) Lab. 
+- 💼 I'm seeking an internship opportunity to apply my skills and gain hands-on experience in the field.
+- ✉️ Reach me through the [email](mailto:qazqwe0922@gmail.com) or visit my [LinkedIn](https://www.linkedin.com/in/qazqwe0922) page.
+
+Thanks for stopping by, and have a great day! ☺️
 
 <!--
 **HaXAlvin/HaXAlvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
